@@ -55,6 +55,13 @@ I've immersed myself in a multitude of languages and frameworks that are at the 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-2671a3?logo=matplotlib&logoColor=white)
 
+<!-- Include the additional GIFs in the frameworks section -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=790b7611szd8iar4vul88c1ore1ygynvk1l7igzbyfbmifhp&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Python" style="width: 45%;"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0182a5cd-bef4-4ef8-b980-3fb20327f47e/d5t16np-ebddcf28-bbea-49f8-bcb8-b0f8bad442c5.gif" alt="TensorFlow" style="width: 45%;"/>
+  <img src="https://user-images.githubusercontent.com/42931974/68615320-d6bf3380-04e8-11ea-84f8-dcef049f1ed3.gif" alt="ML" style="width: 45%;"/>
+</p>
+
 ## 🌟 Let's Connect!
 I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jas-sharma-217614233) to start a conversation or collaborate on exciting projects.
 
