@@ -1,6 +1,6 @@
-<!-- Include the additional GIF at the top -->
+<!-- Include the TensorFlow GIF at the top -->
 <p align="center">
-  <img src="http://tinyurl.com/4bdudy9e" alt="Machine Learning" style="width: 90%;"/>
+  <img src="https://example.com/tensorflow-gif.gif" alt="TensorFlow" style="width: 90%;"/>
 </p>
 
 # Hello World, I'm Jas Sharma! 👨‍💻
@@ -17,8 +17,15 @@ My toolkit is a tapestry of programming languages and frameworks designed to tac
 - **Deep Learning (DL)**: Architecting neural networks that mimic the intricacies of human cognition.
 - **Data Analytics**: Interpreting vast datasets to unearth actionable insights using R and Python.
 
-<!-- Include the GIF in the middle of the profile -->
-![Machine Learning](https://i.pinimg.com/originals/9b/2b/2a/9b2b2a3a89e55d72d0bd6657cf7c6fd2.gif)
+<!-- Include the Ubuntu GIF in the middle of the profile -->
+<p align="center">
+  <img src="https://example.com/ubuntu-gif.gif" alt="Ubuntu" style="width: 90%;"/>
+</p>
+
+<!-- Include the ML-related GIF towards the end -->
+<p align="center">
+  <img src="https://example.com/ml-gif.gif" alt="Machine Learning" style="width: 90%;"/>
+</p>
 
 ## 📈 GitHub Metrics
 
@@ -57,6 +64,5 @@ I've immersed myself in a multitude of languages and frameworks that are at the 
 
 ## 🌟 Let's Connect!
 I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jas-sharma-217614233) to start a conversation or collaborate on exciting projects.
-
 
 
