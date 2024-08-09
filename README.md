@@ -22,19 +22,19 @@ My toolkit is a tapestry of programming languages and frameworks designed to tac
 
 ## 📈 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreateJas&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreateJas&theme=github_dark&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CreateJas&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevWithJas&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWithJas&theme=github_dark&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevWithJas&theme=dark)
 
-![Stars](https://img.shields.io/github/stars/CreateJas/Sentinel-Mark-2?style=social)
-![Watchers](https://img.shields.io/github/watchers/CreateJas/Sentinel-Mark-2?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=CreateJas&color=blue&style=flat-square&label=Profile+Views&color=success&logo=github&logoColor=white&labelColor=grey)
+![Stars](https://img.shields.io/github/stars/DevWithJas/Sentinel-Mark-2?style=social)
+![Watchers](https://img.shields.io/github/watchers/DevWithJas/Sentinel-Mark-2?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=DevWithJas&color=blue&style=flat-square&label=Profile+Views&color=success&logo=github&logoColor=white&labelColor=grey)
 
 ## 🏆 GitHub Profile Trophy
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=CreateJas&theme=darkhub)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=DevWithJas&theme=darkhub)
 
 ## 📊 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CreateJas&theme=react-dark&bg_color=20232a&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=b10e1e" alt="My GitHub Activity Graph" style="max-width: 100%;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevWithJas&theme=react-dark&bg_color=20232a&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=b10e1e" alt="My GitHub Activity Graph" style="max-width: 100%;">
 
 ## 📝 Medium Blogs
 As a writer on Medium, I explore the depths of robotics and machine learning. Check out my stories and tutorials that demystify complex concepts and offer practical advice.
@@ -57,5 +57,6 @@ I've immersed myself in a multitude of languages and frameworks that are at the 
 
 ## 🌟 Let's Connect!
 I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jas-sharma-217614233) to start a conversation or collaborate on exciting projects.
+
 
 
