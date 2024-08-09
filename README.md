@@ -62,11 +62,13 @@ I've immersed myself in a multitude of languages and frameworks that are at the 
   <img src="https://user-images.githubusercontent.com/42931974/68615320-d6bf3380-04e8-11ea-84f8-dcef049f1ed3.gif" alt="ML" style="width: 150px; height: 150px;"/>
   <img src="https://media1.giphy.com/media/26xBtSyoi5hUUkCEo/giphy.gif?cid=6c09b9523d2lllfiqpsje8itl3ddnphqdgujqu4dwdk6d1aa&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Ubuntu" style="width: 150px; height: 150px;"/>
   <img src="https://blog.tristansokol.com/assets/images/tensorflow-linear.gif" alt="TensorFlow Animation" style="width: 150px; height: 150px;"/>
+  <img src="https://cdn-images-1.medium.com/max/500/1*nmRcf8tgT0BsPtCHQQjSxQ.gif" alt="Coding" style="width: 150px; height: 150px;"/>
+  <img src="https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/2db08590-8869-4127-b190-84e31d550239_rw_600.gif?h=7db4a26fd8f436e20c82f49cde968322" alt="Animation" style="width: 150px; height: 150px;"/>
+  <img src="https://media.tenor.com/3OMzo-QSVqEAAAAM/baby-hug.gif" alt="Baby Hug" style="width: 150px; height: 150px;"/>
 </p>
 
 ## 🌟 Let's Connect!
 I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jas-sharma-217614233) to start a conversation or collaborate on exciting projects.
-
 
 
 
