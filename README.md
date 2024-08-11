@@ -33,8 +33,10 @@ My toolkit is a tapestry of programming languages and frameworks designed to tac
 ## 🏆 GitHub Profile Trophy
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=DevWithJas&theme=darkhub)
 
-## 📊 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevWithJas&theme=react-dark&bg_color=20232a&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=b10e1e" alt="My GitHub Activity Graph" style="max-width: 100%;">
+## 📊 GitHub 3D Contribution Graph
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" style="max-width: 100%;"/>
+</p>
 
 ## 📝 Medium Blogs
 As a writer on Medium, I explore the depths of robotics and machine learning. Check out my stories and tutorials that demystify complex concepts and offer practical advice.
