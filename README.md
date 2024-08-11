@@ -1,6 +1,6 @@
 <!-- Include the additional GIF at the top -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/58bba9a8b8e4f84145c4b1810e0c9509/a0d4dcb6b271bf1f-c0/s540x810/5034723b4683d70575cd6ae03c93875f503dec90.gifv" alt="Machine Learning" style="width: 90%;"/>
+  <img src="https://github.com/DevWithJas/DevWithJas/blob/main/1723365190514.gif" alt="Custom GIF" style="width: 90%;"/>
 </p>
 
 # Hello World, I'm Jas Sharma! 👨‍💻
