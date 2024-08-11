@@ -1,7 +1,10 @@
 <!-- Include the additional GIF at the top -->
+<!-- Include the GIFs side by side -->
 <p align="center">
-  <img src="https://github.com/DevWithJas/DevWithJas/blob/main/1723365190514.gif" alt="Custom GIF" style="width: 90%;"/>
+  <img src="https://github.com/DevWithJas/DevWithJas/blob/main/1723365190514.gif" alt="Custom GIF 1" style="height: 250px; margin-right: 10px;"/>
+  <img src="https://github.com/DevWithJas/DevWithJas/blob/main/1723365451438.gif" alt="Custom GIF 2" style="height: 250px;"/>
 </p>
+
 
 # Hello World, I'm Jas Sharma! 👨‍💻
 
