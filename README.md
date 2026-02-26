@@ -1,4 +1,4 @@
-# Jas Sharma | Robotics & AI Research Engineer
+# Jas Sharma | Engineer
 
 <p align="center">
   <img src="https://github.com/DevWithJas/DevWithJas/blob/main/1723365190514.gif" alt="Research Animation 1" height="250" style="margin-right: 10px;"/>
